@@ -5,6 +5,7 @@
     <classes>
       <class name="MyTestCase.ATS">
         <methods>
+          <include name="loginButton"/>
           <include name="LogOut"/>
           <include name="TheURL"/>
         </methods>
